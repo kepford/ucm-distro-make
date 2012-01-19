@@ -13,5 +13,5 @@ projects[drupal][version] = "7"
 projects[campuscms_profile][type] = profile
 projects[campuscms_profile][version] = 1.x-dev
 projects[campuscms_profile][download][type] = git
-projects[campuscms_profile][download][url] = git://github.com/redndahead/campuscms-profile.git
+projects[campuscms_profile][download][url] = git://github.com/kepford/campuscms-profile.git
 projects[campuscms_profile][download][branch] = master
